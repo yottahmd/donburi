@@ -486,6 +486,7 @@ func UpdateScore(w donburi.World, event EnemyKilled) {
 
 ### Libraries
 - [necs](https://github.com/leap-fish/necs) - Networked Entity Component System; a networking layer for donburi by [gin](https://github.com/imthatgin)
+- [tamago](https://github.com/thefishhat/tamago) - CLI Runtime editor for donburi ECS Worlds by [thefishhat](https://github.com/thefishhat)
 
 ## Architecture
 
